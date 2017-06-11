@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="95">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>CLARA.h</itemPath>
+      <itemPath>Clarans.h</itemPath>
+      <itemPath>Cluster.h</itemPath>
+      <itemPath>../CppApplication_10/CosineSim.h</itemPath>
+      <itemPath>../CppApplication_10/DistanceMatrix.h</itemPath>
+      <itemPath>Distances.h</itemPath>
+      <itemPath>../CppApplication_10/Euclidean.h</itemPath>
+      <itemPath>../CppApplication_10/Hamming.h</itemPath>
+      <itemPath>../CppApplication_10/Hashtable.h</itemPath>
+      <itemPath>K_medoids.h</itemPath>
+      <itemPath>LSH.h</itemPath>
+      <itemPath>../CppApplication_10/LinkedList.h</itemPath>
+      <itemPath>../CppApplication_10/NeighbourSearch.h</itemPath>
+      <itemPath>PAM.h</itemPath>
+      <itemPath>Park_Jun.h</itemPath>
+      <itemPath>Silhouette.h</itemPath>
+      <itemPath>alaLloyds.h</itemPath>
+      <itemPath>../CppApplication_10/randomfunc.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>CLARA.cpp</itemPath>
+      <itemPath>Clarans.cpp</itemPath>
+      <itemPath>Cluster.cpp</itemPath>
+      <itemPath>../CppApplication_10/CosineSim.cpp</itemPath>
+      <itemPath>DataPoints.cpp</itemPath>
+      <itemPath>DataPoints.h</itemPath>
+      <itemPath>../CppApplication_10/DistanceMatrix.cpp</itemPath>
+      <itemPath>Distances.cpp</itemPath>
+      <itemPath>../CppApplication_10/Euclidean.cpp</itemPath>
+      <itemPath>../CppApplication_10/Hamming.cpp</itemPath>
+      <itemPath>../CppApplication_10/Hashtable.cpp</itemPath>
+      <itemPath>K_medoids.cpp</itemPath>
+      <itemPath>LSH.cpp</itemPath>
+      <itemPath>../CppApplication_10/LinkedList.cpp</itemPath>
+      <itemPath>../CppApplication_10/NeighbourSearch.cpp</itemPath>
+      <itemPath>PAM.cpp</itemPath>
+      <itemPath>Park_Jun.cpp</itemPath>
+      <itemPath>Silhouette.cpp</itemPath>
+      <itemPath>alaLloyds.cpp</itemPath>
+      <itemPath>main.cpp</itemPath>
+      <itemPath>../CppApplication_10/randomfunc.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+      <logicalFolder name="f1"
+                     displayName="New C++ Simple Test"
+                     projectFiles="true"
+                     kind="TEST">
+      </logicalFolder>
+      <logicalFolder name="f2"
+                     displayName="New C++ Simple Test 1"
+                     projectFiles="true"
+                     kind="TEST">
+        <itemPath>tests/newsimpletest.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f3"
+                     displayName="TestDistances"
+                     projectFiles="true"
+                     kind="TEST">
+        <itemPath>../CppApplication_10/build/tests/newsimpletest.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f4"
+                     displayName="TestMedoids"
+                     projectFiles="true"
+                     kind="TEST">
+        <itemPath>../CppApplication_10/build/tests/newsimpletest1.cpp</itemPath>
+      </logicalFolder>
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>../CppApplication_10/build</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+      </compileType>
+      <item path="../CppApplication_10/CosineSim.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../CppApplication_10/CosineSim.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../CppApplication_10/DistanceMatrix.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../CppApplication_10/DistanceMatrix.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../CppApplication_10/Euclidean.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../CppApplication_10/Euclidean.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../CppApplication_10/Hamming.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../CppApplication_10/Hamming.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../CppApplication_10/Hashtable.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../CppApplication_10/Hashtable.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../CppApplication_10/LinkedList.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../CppApplication_10/LinkedList.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../CppApplication_10/NeighbourSearch.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../CppApplication_10/NeighbourSearch.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../CppApplication_10/build/tests/newsimpletest.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../CppApplication_10/build/tests/newsimpletest1.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../CppApplication_10/randomfunc.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../CppApplication_10/randomfunc.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CLARA.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CLARA.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Clarans.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Clarans.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Cluster.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Cluster.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DataPoints.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="DataPoints.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Distances.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Distances.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="K_medoids.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="K_medoids.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="LSH.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="LSH.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PAM.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="PAM.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Park_Jun.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Park_Jun.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Silhouette.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Silhouette.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="alaLloyds.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alaLloyds.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <folder path="TestFiles/f1">
+        <cTool>
+          <incDir>
+            <pElem>.</pElem>
+          </incDir>
+        </cTool>
+        <ccTool>
+          <incDir>
+            <pElem>.</pElem>
+          </incDir>
+        </ccTool>
+        <linkerTool>
+          <output>${TESTDIR}/TestFiles/f1</output>
+        </linkerTool>
+      </folder>
+      <folder path="TestFiles/f2">
+        <cTool>
+          <incDir>
+            <pElem>.</pElem>
+          </incDir>
+        </cTool>
+        <ccTool>
+          <incDir>
+            <pElem>.</pElem>
+          </incDir>
+        </ccTool>
+        <linkerTool>
+          <output>${TESTDIR}/TestFiles/f2</output>
+        </linkerTool>
+      </folder>
+      <folder path="TestFiles/f3">
+        <cTool>
+          <incDir>
+            <pElem>.</pElem>
+          </incDir>
+        </cTool>
+        <ccTool>
+          <incDir>
+            <pElem>.</pElem>
+          </incDir>
+        </ccTool>
+        <linkerTool>
+          <output>${TESTDIR}/TestFiles/f3</output>
+        </linkerTool>
+      </folder>
+      <folder path="TestFiles/f4">
+        <cTool>
+          <incDir>
+            <pElem>.</pElem>
+          </incDir>
+        </cTool>
+        <ccTool>
+          <incDir>
+            <pElem>.</pElem>
+          </incDir>
+        </ccTool>
+        <linkerTool>
+          <output>${TESTDIR}/TestFiles/f4</output>
+        </linkerTool>
+      </folder>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="tests/newsimpletest.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="../CppApplication_10/CosineSim.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../CppApplication_10/CosineSim.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../CppApplication_10/DistanceMatrix.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../CppApplication_10/DistanceMatrix.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../CppApplication_10/Euclidean.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../CppApplication_10/Euclidean.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../CppApplication_10/Hamming.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../CppApplication_10/Hamming.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../CppApplication_10/Hashtable.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../CppApplication_10/Hashtable.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../CppApplication_10/LinkedList.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../CppApplication_10/LinkedList.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../CppApplication_10/NeighbourSearch.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../CppApplication_10/NeighbourSearch.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../CppApplication_10/build/tests/newsimpletest.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../CppApplication_10/build/tests/newsimpletest1.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../CppApplication_10/randomfunc.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../CppApplication_10/randomfunc.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CLARA.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CLARA.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Clarans.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Clarans.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Cluster.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Cluster.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DataPoints.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="DataPoints.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Distances.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Distances.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="K_medoids.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="K_medoids.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="LSH.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="LSH.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PAM.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="PAM.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Park_Jun.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Park_Jun.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Silhouette.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Silhouette.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="alaLloyds.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alaLloyds.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <folder path="TestFiles/f1">
+        <cTool>
+          <incDir>
+            <pElem>.</pElem>
+          </incDir>
+        </cTool>
+        <ccTool>
+          <incDir>
+            <pElem>.</pElem>
+          </incDir>
+        </ccTool>
+        <linkerTool>
+          <output>${TESTDIR}/TestFiles/f1</output>
+        </linkerTool>
+      </folder>
+      <folder path="TestFiles/f2">
+        <cTool>
+          <incDir>
+            <pElem>.</pElem>
+          </incDir>
+        </cTool>
+        <ccTool>
+          <incDir>
+            <pElem>.</pElem>
+          </incDir>
+        </ccTool>
+        <linkerTool>
+          <output>${TESTDIR}/TestFiles/f2</output>
+        </linkerTool>
+      </folder>
+      <folder path="TestFiles/f3">
+        <cTool>
+          <incDir>
+            <pElem>.</pElem>
+          </incDir>
+        </cTool>
+        <ccTool>
+          <incDir>
+            <pElem>.</pElem>
+          </incDir>
+        </ccTool>
+        <linkerTool>
+          <output>${TESTDIR}/TestFiles/f3</output>
+        </linkerTool>
+      </folder>
+      <folder path="TestFiles/f4">
+        <cTool>
+          <incDir>
+            <pElem>.</pElem>
+          </incDir>
+        </cTool>
+        <ccTool>
+          <incDir>
+            <pElem>.</pElem>
+          </incDir>
+        </ccTool>
+        <linkerTool>
+          <output>${TESTDIR}/TestFiles/f4</output>
+        </linkerTool>
+      </folder>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="tests/newsimpletest.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
